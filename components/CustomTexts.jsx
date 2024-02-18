@@ -1,5 +1,5 @@
 export const TypingText = ({ title, textStyles }) => (
-  <p className={`font-normal text-[14px] text-secondary-white ${textStyles}`}>
+  <p className={`font-normal text-[14px] text-crimson ${textStyles}`}>
     {title.split('').map((letter, index) => (
       <span key={index}>
         {letter === ' ' ? '\u00A0' : letter}

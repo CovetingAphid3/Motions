@@ -2,7 +2,7 @@ import { Footer, Navbar } from '../components';
 import { About, Explore, GetStarted, Hero, Insights, World } from '../sections';
 
 const Page = () => (
-  <div className='bg-sky overflow-hidden'>
+  <div className='bg-secondary-white overflow-hidden'>
     <Navbar />
     <Hero />
     <About />
