@@ -1,36 +1,27 @@
-'use client';
+"use client";
 
-import { motion } from 'framer-motion';
-
-import styles from '../styles';
-import { slideIn, staggerContainer, textVariant } from '../utils/motion';
+import styles from "../styles";
+import { textVariant } from "../utils/motion";
 
 const Hero = () => (
   <section className={`${styles.yPaddings} sm:pl-16 pl-6`}>
-    <motion.div
-      variants={staggerContainer}
-      initial="hidden"
-      whileInView="show"
+    <div
       viewport={{ once: true, amount: 0.15 }}
       className={`${styles.innerWidth} mx-auto flex flex-col`}
     >
       <div className="flex justify-center items-center flex-col relative z-10">
-        <motion.h1 variants={textVariant(1.1)} className={styles.heroHeading}>
+        <h1 variants={textVariant(1.1)} className={styles.heroHeading}>
           Explore With
-        </motion.h1>
-        <motion.div
+        </h1>
+        <div
           variants={textVariant(1.2)}
           className="flex flex-row justify-center items-center"
         >
           <h1 className={styles.heroHeading}>Style</h1>
-          
-        </motion.div>
+        </div>
       </div>
 
-      <motion.div
-        variants={slideIn('right', 'tween', 0.2, 1)}
-        className="relative w-full md:-mt-[20px] -mt-[12px]"
-      >
+      <div className="relative w-full md:-mt-[20px] -mt-[12px]">
         <div className="absolute w-full h-[530px] bg-white rounded-tl-[140px] z-[0] -top-[30px]" />
 
         <img
@@ -48,8 +39,8 @@ const Hero = () => (
             />
           </div>
         </a>
-      </motion.div>
-    </motion.div>
+      </div>
+    </div>
   </section>
 );
 

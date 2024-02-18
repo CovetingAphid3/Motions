@@ -2,69 +2,69 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'Enchanting Destinations',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    title: 'Mystical Getaways',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    title: 'Astro Discoveries',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    title: 'Tropical Escapes',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    title: 'Urban Adventures',
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Explore captivating worlds and find your perfect travel escape',
+  'Embark on your journey with a travel blessing for a safe and joyful adventure',
+  'No need to hesitate, dive into the exploration and savor the excitement',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'New Horizons Await',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+      'Discover fresh destinations with our latest update, offering new and exciting places for you to explore on your travels.',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'Immersive Experiences',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+      'Experience travel like never before. Our latest update brings you closer to the heart of each destination for an immersive journey.',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'Astro Travel Launch Captivates Travel Enthusiasts',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+      'Experience the buzz as the launch of Travel Astro captivates travelers worldwide. Unleash the spirit of exploration!',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: '7 Tips for Mastering the Art of Travel',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+      'Unlock the secrets to becoming a travel pro with these 7 essential tips. Navigate the globe with confidence and expertise.',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'One Platform, Countless Adventures',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+      'Embark on a virtual journey to explore the beauty of the world. Our platform opens doors to endless travel possibilities from the comfort of your home.',
   },
 ];
 
