@@ -27,25 +27,11 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Explore captivating worlds and find your perfect travel escape',
-  'Embark on your journey with a travel blessing for a safe and joyful adventure',
-  'No need to hesitate, dive into the exploration and savor the excitement',
+  'Discover enchanting realms and select your dream destination from the comfort of your device',
+  'Share your availability and desired location with us',
+  "It's that easy – no more steps, just simplicity at its finest",
 ];
 
-export const newFeatures = [
-  {
-    imgUrl: '/vrpano.svg',
-    title: 'New Horizons Await',
-    subtitle:
-      'Discover fresh destinations with our latest update, offering new and exciting places for you to explore on your travels.',
-  },
-  {
-    imgUrl: '/headset.svg',
-    title: 'Immersive Experiences',
-    subtitle:
-      'Experience travel like never before. Our latest update brings you closer to the heart of each destination for an immersive journey.',
-  },
-];
 
 export const insights = [
   {

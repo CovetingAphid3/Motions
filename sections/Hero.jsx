@@ -11,13 +11,13 @@ const Hero = () => (
     >
       <div className="flex justify-center items-center flex-col relative z-10">
         <h1 variants={textVariant(1.1)} className={styles.heroHeading}>
-         <span className="text-black">Explore</span>  more
+         <span className="text-white">comfort</span> in
         </h1>
         <div
           variants={textVariant(1.2)}
           className="flex flex-row justify-center items-center pb-5"
         >
-          <h1 className={styles.heroHeading}><span className="text-green">with</span> Style</h1>
+          <h1 className={styles.heroHeading}>every<span className="text-white"> mile</span></h1>
         </div>
       </div>
 

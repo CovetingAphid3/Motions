@@ -10,9 +10,7 @@ import { InsightCard, TitleText, TypingText } from '../components';
 const Insights = () => (
   <section className={`${styles.paddings} relative z-10`}>
     <div
-      variants={staggerContainer}
-      initial="hidden"
-      whileInView="show"
+    
       viewport={{ once: true, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto flex flex-col`}
     >

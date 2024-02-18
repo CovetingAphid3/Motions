@@ -16,11 +16,11 @@ const GetStarted = () => (
         <img
           src="/camera.jpg"
           alt="get-started"
-          className="w-[90%] h-[60%] object-contain rounded-lg bg-black"
+          className="w-[90%] h-[90%] object-contain rounded-lg "
         />
       </div>
       <div className="flex-[0.75] flex justify-center flex-col">
-        <TypingText title="| How Metaversus Works" />
+        <TypingText title="| How Travel Astro Works" />
         <TitleText title={<>Get started with just a few clicks</>} />
         <div className="mt-[31px] flex flex-col max-w-[370px] gap-[24px]">
           {startingFeatures.map((feature, index) => (
