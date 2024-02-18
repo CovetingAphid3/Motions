@@ -5,12 +5,12 @@ import { socials } from "../constants";
 import styles from "../styles";
 
 const Footer = () => (
-  <footer className={`${styles.xPaddings} py-8 relative`}>
+  <footer className={`${styles.xPaddings} py-8 relative bg-black`}>
     <div className="footer-gradient" />
     <div className={`${styles.innerWidth} mx-auto flex flex-col gap-8`}>
       <div className="flex items-center justify-between flex-wrap gap-5">
         <h4 className="font-bold md:text-[64px] text-[44px] text-white">
-          Enter the Metaverse
+          Start Your Journey Today
         </h4>
         <button
           type="button"
@@ -22,7 +22,7 @@ const Footer = () => (
             className="w-[24px] h-[24px] object-contain"
           />
           <span className="font-normal text-[16px] text-white">
-            Enter Metaverse
+            Begin
           </span>
         </button>
       </div>
@@ -31,9 +31,9 @@ const Footer = () => (
         <div className="mb-[50px] h-[2px] bg-white opacity-10" />
 
         <div className="flex items-center justify-between flex-wrap gap-4">
-          <h4 className="font-extrabold text-[24px] text-white">METAVERUS</h4>
+          <h4 className="font-extrabold text-[24px] text-white">TRAVEL ASTRO</h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © 2021 - 2022 Metaversus. All rights reserved.
+            Copyright © 2021 - 2022 Tavel Astro. All rights reserved.
           </p>
 
           <div className="flex gap-4">

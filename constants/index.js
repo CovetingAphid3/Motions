@@ -1,27 +1,27 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/planet-01.png',
+    imgUrl: '/water.jpg',
     title: 'Enchanting Destinations',
   },
   {
     id: 'world-2',
-    imgUrl: '/planet-02.png',
+    imgUrl: '/road.jpg',
     title: 'Mystical Getaways',
   },
   {
     id: 'world-3',
-    imgUrl: '/planet-03.png',
+    imgUrl: '/climb.jpg',
     title: 'Astro Discoveries',
   },
   {
     id: 'world-4',
-    imgUrl: '/planet-04.png',
+    imgUrl: '/coast.jpg',
     title: 'Tropical Escapes',
   },
   {
     id: 'world-5',
-    imgUrl: '/planet-05.png',
+    imgUrl: '/city.jpg',
     title: 'Urban Adventures',
   },
 ];
@@ -49,19 +49,19 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
+    imgUrl: '/woman.jpg',
     title: 'Astro Travel Launch Captivates Travel Enthusiasts',
     subtitle:
       'Experience the buzz as the launch of Travel Astro captivates travelers worldwide. Unleash the spirit of exploration!',
   },
   {
-    imgUrl: '/planet-07.png',
+    imgUrl: '/nature.jpg',
     title: '7 Tips for Mastering the Art of Travel',
     subtitle:
       'Unlock the secrets to becoming a travel pro with these 7 essential tips. Navigate the globe with confidence and expertise.',
   },
   {
-    imgUrl: '/planet-08.png',
+    imgUrl: '/houses.jpg',
     title: 'One Platform, Countless Adventures',
     subtitle:
       'Embark on a virtual journey to explore the beauty of the world. Our platform opens doors to endless travel possibilities from the comfort of your home.',

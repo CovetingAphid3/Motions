@@ -3,7 +3,7 @@
 import styles from "../styles";
 
 const Navbar = () => (
-  <nav className={`${styles.xPaddings} py-8 relative`}>
+  <nav className={`${styles.xPaddings} py-8 relative bg-black`}>
     <div className="absolute w-[50%] inset-0 gradient-01" />
     <div className={`${styles.innerWidth} mx-auto flex justify-between gap-8`}>
       <img

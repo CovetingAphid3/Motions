@@ -14,9 +14,9 @@ const GetStarted = () => (
     >
       <div className={`flex-1 ${styles.flexCenter}`}>
         <img
-          src="/get-started.png"
+          src="/camera.jpg"
           alt="get-started"
-          className="w-[90%] h-[90%] object-contain"
+          className="w-[90%] h-[60%] object-contain rounded-lg bg-black"
         />
       </div>
       <div className="flex-[0.75] flex justify-center flex-col">

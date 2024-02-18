@@ -11,11 +11,11 @@ const Hero = () => (
     >
       <div className="flex justify-center items-center flex-col relative z-10">
         <h1 variants={textVariant(1.1)} className={styles.heroHeading}>
-         <span className="text-green">Explore</span>  more
+         <span className="text-black">Explore</span>  more
         </h1>
         <div
           variants={textVariant(1.2)}
-          className="flex flex-row justify-center items-center"
+          className="flex flex-row justify-center items-center pb-5"
         >
           <h1 className={styles.heroHeading}><span className="text-green">with</span> Style</h1>
         </div>
@@ -27,7 +27,7 @@ const Hero = () => (
         <img
           src="/trav.svg"
           alt="hero_cover"
-          className="w-full sm:h-[500px] h-[350px] object-cover rounded-lg  relative"
+          className="w-full  sm:h-[500px] h-[350px] object-cover rounded-lg  relative pr-10"
         />
       </div>
     </div>
