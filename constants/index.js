@@ -12,7 +12,7 @@ export const exploreWorlds = [
   {
     id: 'world-3',
     imgUrl: '/climb.jpg',
-    title: 'Astro Discoveries',
+    title: 'Surreal Discoveries',
   },
   {
     id: 'world-4',
@@ -36,9 +36,9 @@ export const startingFeatures = [
 export const insights = [
   {
     imgUrl: '/woman.jpg',
-    title: 'Astro Travel Launch Captivates Travel Enthusiasts',
+    title: 'Travel Launch Captivates Travel Enthusiasts',
     subtitle:
-      'Experience the buzz as the launch of Travel Astro captivates travelers worldwide. Unleash the spirit of exploration!',
+      'Experience the buzz as the launch of Travel Discovery captivates travelers worldwide. Unleash the spirit of exploration!',
   },
   {
     imgUrl: '/nature.jpg',

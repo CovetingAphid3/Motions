@@ -1005,6 +1005,14 @@ video {
 .bg-sky{
   background-color: #384448;
 }
+.hover\:bg-white:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+.hover\:bg-black:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(0 0 0 / var(--tw-bg-opacity));
+}
 @media (min-width: 640px) {
 
   .sm\:mx-2 {
@@ -1018,6 +1026,14 @@ video {
 
   .sm\:h-\[48px\] {
     height: 48px;
+  }
+
+  .sm\:h-\[5000px\] {
+    height: 5000px;
+  }
+
+  .sm\:h-\[800px\] {
+    height: 800px;
   }
 
   .sm\:w-\[80px\] {

@@ -1,1 +1,1 @@
-self.__RSC_CSS_MANIFEST={"__entry_css__":{"/home/tadiwa/repos/Motions/app/page":["/home/tadiwa/repos/Motions/styles/globals.css"]},"/home/tadiwa/repos/Motions/app/layout.js":["/home/tadiwa/repos/Motions/styles/globals.css"]}
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/home/tadiwa/Desktop/Code/repos/Motions/app/page":["/home/tadiwa/Desktop/Code/repos/Motions/styles/globals.css"]},"/home/tadiwa/Desktop/Code/repos/Motions/app/layout.js":["/home/tadiwa/Desktop/Code/repos/Motions/styles/globals.css"]}

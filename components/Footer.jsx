@@ -5,7 +5,7 @@ import { socials } from "../constants";
 import styles from "../styles";
 
 const Footer = () => (
-  <footer className={`${styles.xPaddings} py-8 relative bg-black`}>
+  <footer className={`${styles.xPaddings} py-8 relative `}>
     <div className="footer-gradient" />
     <div className={`${styles.innerWidth} mx-auto flex flex-col gap-8`}>
       <div className="flex items-center justify-between flex-wrap gap-5">
@@ -16,12 +16,7 @@ const Footer = () => (
           type="button"
           className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]"
         >
-          <img
-            src="/headset.svg"
-            alt="headset"
-            className="w-[24px] h-[24px] object-contain"
-          />
-          <span className="font-normal text-[16px] text-white">Begin</span>
+          <span className="font-normal text-[16px] text-white ">Begin</span>
         </button>
       </div>
 
@@ -30,10 +25,10 @@ const Footer = () => (
 
         <div className="flex items-center justify-between flex-wrap gap-4">
           <h4 className="font-extrabold text-[24px] text-white">
-            TRAVEL ASTRO
+            TRAVEL DISCOVERY
           </h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © 2021 - 2022 Tavel Astro. All rights reserved.
+            Copyright © 2021 - 2022 Tavel Discovery. All rights reserved.
           </p>
 
           <div className="flex gap-4">

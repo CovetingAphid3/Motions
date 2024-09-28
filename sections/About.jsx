@@ -16,18 +16,18 @@ const About = () => (
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
     >
-      <TypingText title="| About Travel Astro" textStyles="text-center" />
+      <TypingText title="| About Travel Discovery" textStyles="text-center" />
 
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-black"
       >
         Planning your next adventure? Welcome to{' '}
-        <span className="font-extrabold text-white">Travel Astro</span> - your
+        <span className="font-extrabold text-white">Travel Discovery</span> - your
         gateway to a world of travel possibilities. Immerse yourself in the
         excitement of exploring new destinations, meeting fellow travelers, and
         creating memories that will last a lifetime. With{' '}
-        <span className="font-extrabold text-white">Travel Astro</span>, the
+        <span className="font-extrabold text-white">Travel Discovery</span>, the
         journey begins from the moment you dream it. Whether you're a solo
         explorer or seeking group adventures, let the magic of travel unfold.
         Embark on a virtual journey with us and scroll down to discover the

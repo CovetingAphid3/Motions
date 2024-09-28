@@ -25,7 +25,7 @@ const Hero = () => (
         <div  />
 
         <img
-          src="/trav.svg"
+          src="/hero.jpg"
           alt="hero_cover"
           className="w-full  sm:h-[500px] h-[350px] object-cover rounded-lg  relative pr-10"
         />

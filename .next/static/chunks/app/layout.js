@@ -8,20 +8,20 @@
  */
 (self["webpackChunk_N_E"] = self["webpackChunk_N_E"] || []).push([["app/layout"],{
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Ftadiwa%2Frepos%2FMotions%2Fstyles%2Fglobals.css&server=false!":
-/*!*************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Ftadiwa%2Frepos%2FMotions%2Fstyles%2Fglobals.css&server=false! ***!
-  \*************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Ftadiwa%2FDesktop%2FCode%2Frepos%2FMotions%2Fstyles%2Fglobals.css&server=false!":
+/*!******************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Ftadiwa%2FDesktop%2FCode%2Frepos%2FMotions%2Fstyles%2Fglobals.css&server=false! ***!
+  \******************************************************************************************************************************************************************************************/
 /***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
 
-eval(__webpack_require__.ts("(() => __webpack_require__.e(/*! import() */ \"styles_globals_css\").then(__webpack_require__.bind(__webpack_require__, /*! ./styles/globals.css */ \"./styles/globals.css\")))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9JTJGaG9tZSUyRnRhZGl3YSUyRnJlcG9zJTJGTW90aW9ucyUyRnN0eWxlcyUyRmdsb2JhbHMuY3NzJnNlcnZlcj1mYWxzZSEuanMiLCJtYXBwaW5ncyI6IkFBQUEsT0FBTyxtS0FBaUYiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLz8wMTY5Il0sInNvdXJjZXNDb250ZW50IjpbIigoKSA9PiBpbXBvcnQoLyogd2VicGFja01vZGU6IFwibGF6eVwiICovIFwiL2hvbWUvdGFkaXdhL3JlcG9zL01vdGlvbnMvc3R5bGVzL2dsb2JhbHMuY3NzXCIpKSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Ftadiwa%2Frepos%2FMotions%2Fstyles%2Fglobals.css&server=false!\n"));
+eval(__webpack_require__.ts("(() => __webpack_require__.e(/*! import() */ \"styles_globals_css\").then(__webpack_require__.bind(__webpack_require__, /*! ./styles/globals.css */ \"./styles/globals.css\")))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9JTJGaG9tZSUyRnRhZGl3YSUyRkRlc2t0b3AlMkZDb2RlJTJGcmVwb3MlMkZNb3Rpb25zJTJGc3R5bGVzJTJGZ2xvYmFscy5jc3Mmc2VydmVyPWZhbHNlIS5qcyIsIm1hcHBpbmdzIjoiQUFBQSxPQUFPLG1LQUE4RiIsInNvdXJjZXMiOlsid2VicGFjazovL19OX0UvP2UyMTciXSwic291cmNlc0NvbnRlbnQiOlsiKCgpID0+IGltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJsYXp5XCIgKi8gXCIvaG9tZS90YWRpd2EvRGVza3RvcC9Db2RlL3JlcG9zL01vdGlvbnMvc3R5bGVzL2dsb2JhbHMuY3NzXCIpKSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Ftadiwa%2FDesktop%2FCode%2Frepos%2FMotions%2Fstyles%2Fglobals.css&server=false!\n"));
 
 /***/ })
 
 },
 /******/ function(__webpack_require__) { // webpackRuntimeModules
 /******/ var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
-/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Ftadiwa%2Frepos%2FMotions%2Fstyles%2Fglobals.css&server=false!"); });
+/******/ __webpack_require__.O(0, ["main-app"], function() { return __webpack_exec__("./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fhome%2Ftadiwa%2FDesktop%2FCode%2Frepos%2FMotions%2Fstyles%2Fglobals.css&server=false!"); });
 /******/ var __webpack_exports__ = __webpack_require__.O();
 /******/ _N_E = __webpack_exports__;
 /******/ }

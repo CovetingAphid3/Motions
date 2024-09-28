@@ -30,7 +30,7 @@ const World = () => (
         variants={fadeIn("up", "tween", 0.3, 1)}
         className="relative mt-[68px] flex w-full h-[550px]"
       >
-        <img src="/map.svg" alt="map" className="w-full h-full object-cover rounded-lg" />
+        <img src="/air.jpg" alt="map" className="w-full h-full object-cover rounded-lg" />
       </motion.div>
     </motion.div>
   </section>
